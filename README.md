@@ -1,4 +1,4 @@
-# covid-case-rate-by-modzcta
+# NYC Covid-19 data-by-modzcta Parser
 Python code to parse the history of COVID-19 cases rates by modzcta prior to 8/8 from NYC DOHMH.
 
 ## Notes
